@@ -1,4 +1,7 @@
 ![a LED and the text Clifftek](IMG_0038.JPG)
+
+### My name is Jakob Johnson, and I am 28 years old, from Parkes NSW.
+Formally an automotive workshop foreman, currently a student, studying for a bachelor's degree in IT at RMIT University, and building the dream one LED at a time.
 <!--
 **Clifftek/Clifftek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
