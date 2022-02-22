@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![a LED and the text Clifftek](IMG_0038.JPG)
 <!--
 **Clifftek/Clifftek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
