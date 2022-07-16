@@ -1,3 +1,19 @@
-![Clifftek](bg.png)
+                                              ________________________________________________
+                                             /                                                \
+                                             |    _________________________________________     |
+                                             |   | | - ~/README.md                         |    |
+                                             |   | | -> $ Hi, and Welcome to my github.    |    |
+                                             |   |   My name is Jakob, and I am currently  |    |
+                                             |   |   studying cyber-security and           |    |               
+                                             |   |   networking, I am also a accomplished  |    |                
+                                             |   |   programmer ...|                       |    |
+                                             |   |                                         |    |
+                                             |   |                                         |    |
+                                             |   |                                         |    |
+                                             |   |                                         |    |
+                                             |   |                                         |    |
+                                             |   |_________________________________________|    |
+                                             |                                                  |
+                                             \_________________________________________________/
+                                                    \___________________________________/
 
-[Clifftek.io](https://www.clifftek.io)
