@@ -1,8 +1,8 @@
                                         ________________________________________________
                                        /                                                \
                                       |    _________________________________________     |
-                                      |   | | - ~/whoami.                           |    |
-                                      |   | | -> $ Hi, and Welcome to my github.    |    |
+                                      |   | -> $ whoami                             |    |
+                                      |   | -> $ Hi, and Welcome to my github.      |    |
                                       |   |   My name is Jakob, and I am currently  |    |
                                       |   |   studying cyber-security and           |    |               
                                       |   |   networking, I am also a accomplished  |    |                
