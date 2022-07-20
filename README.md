@@ -1,7 +1,7 @@
                                         ________________________________________________
                                        /                                                \
                                       |    _________________________________________     |
-                                      |   | | - ~/README.md                         |    |
+                                      |   | | - ~/whoami.                           |    |
                                       |   | | -> $ Hi, and Welcome to my github.    |    |
                                       |   |   My name is Jakob, and I am currently  |    |
                                       |   |   studying cyber-security and           |    |               
